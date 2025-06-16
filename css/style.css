@@ -288,25 +288,25 @@ header .follow a:hover{
 }
 
 .about .row-2 .skills .progress:nth-child(1) .bar span{
-    width:80%;
-}
-
-.about .row-2 .skills .progress:nth-child(2) .bar span{
     width:70%;
 }
 
-.about .row-2 .skills .progress:nth-child(3) .bar span{
+.about .row-2 .skills .progress:nth-child(2) .bar span{
     width:85%;
 }
 
+.about .row-2 .skills .progress:nth-child(3) .bar span{
+    width:70%;
+}
+
 .about .row-2 .skills .progress:nth-child(4) .bar span{
-    width:75%;
+    width:60%;
 }
 .about .row-2 .skills .progress:nth-child(5) .bar span{
-    width:80%;
+    width:85%;
 }
 .about .row-2 .skills .progress:nth-child(6) .bar span{
-    width:90%;
+    width:10%;
 }
 
 .about .row-2 .box-container{
